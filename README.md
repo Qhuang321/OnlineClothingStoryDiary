@@ -3,7 +3,7 @@ Qinghua Huang
 
 # Introduction
 
-Are you tired of hopping from one store to another in search of the perfect outfit? Look no further! Our team is excited to introduce an innovative solution that will revolutionize your shopping experience. The Online Clothing Shopping App is your one-stop destination for all your fashion needs. With a user-friendly interface and a wide range of clothing options, we aim to provide convenience and style at your fingertips.
+Are you tired of hopping from one store to another in search of the perfect outfit? Look no further! Our team is excited to introduce an innovative solution that will revolutionize your shopping experience. The online clothing shopping app "Quick Fashion" is your one-stop destination for all your fashion needs. With a user-friendly interface and a wide range of clothing options, we aim to provide convenience and style at your fingertips.
 Browse and Purchase: Explore a vast selection of clothing items from the comfort of your home. From trendy apparel to timeless classics, find the perfect pieces to elevate your wardrobe.
 
 - Personalized Recommendations: Receive tailored recommendations based on your preferences, previous purchases, and browsing history. Discover new styles that match your unique taste effortlessly.
@@ -20,7 +20,7 @@ Browse and Purchase: Explore a vast selection of clothing items from the comfort
 
 - Exclusive Deals and Promotions: Take advantage of exclusive deals, discounts, and promotions available only to app users. Save money while upgrading your wardrobe with the latest fashion trends.
 
-Experience the convenience of online shopping with the Online Clothing Shopping App. Download now and embark on a seamless shopping journey tailored to your needs and preferences.
+Experience the convenience of online shopping with the Quick Fashion App. Download now and embark on a seamless shopping journey tailored to your needs and preferences.
 # Storyboard
 
 Clothing Online Storyboard
@@ -70,7 +70,7 @@ Brand: Nike
 
 Category: Athletic Wear
 
-And I should receive multiple results with similar attributes for different Nike products.
+And I should receive multiple results with similar attributes for different Nike products. This would include products like shoes, shorts, sweatshirts, shirts and more.
 
 1.3
 
@@ -91,6 +91,7 @@ As a user, I want to be able to save details of my favorite clothing items, incl
 Clothing database is available and accessible.
 
 The app has access to the device's camera.
+User has private inventory of photos and details they can reference when shopping.
 
 **Assumptions**
 
@@ -126,7 +127,7 @@ Take a photo of the sneakers and add a description "Great for running"
 
 **Class Diagram Description**
 
-Main Activity: The main screen of the app displaying a list of clothing items and options to search and filter.
+Main Activity: The main screen of the app displaying photos and a list of clothing items and options to search and filter.
 
 Clothing Details Activity: A screen that shows detailed information about a selected clothing item.
 
